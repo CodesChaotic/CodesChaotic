@@ -1,0 +1,4 @@
+Testing = input('enter text to repeat ')
+Testing1 = input('how many times to repeat ')
+for i in Range(Testing1).int:
+  print(Testing)
